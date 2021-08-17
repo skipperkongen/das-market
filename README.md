@@ -1,6 +1,6 @@
 # Das market
 
-Sample purchases from a synthetic market.
+Sample survey and sales data from a market.
 
 Data:
 
